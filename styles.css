@@ -1,8 +1,12 @@
 .slider-container {
     position: relative;
     max-width: 800px;
-    margin-left: 20px;
+    margin: auto;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .slider {
